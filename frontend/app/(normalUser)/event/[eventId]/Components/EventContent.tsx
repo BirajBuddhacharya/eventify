@@ -11,7 +11,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { RegistrationForm } from "@/components/registration-form";
 import axios from "axios";
 import { Button } from "@/components/ui/button";
-import { Badge } from "@/components/ui/badge"; 
+import { Badge } from "@/components/ui/badge";
 import {
   Calendar,
   MapPin,
@@ -23,7 +23,7 @@ import {
 } from "lucide-react";
 import { useState, useEffect } from "react";
 import { toast } from "react-toastify";
-import {SidebarSkeleton, EventSkeleton} from './Skeleton'
+import { SidebarSkeleton, EventSkeleton } from './Skeleton'
 
 interface Event {
   id?: string;
@@ -175,14 +175,19 @@ export default function EventContent({ eventId }: { eventId: string }) {
                 <TabsTrigger value="location">Location</TabsTrigger>
               </TabsList>
               <TabsContent value="about" className="mt-4 space-y-4">
-                {event?.description ? (
-                  <div
-                    className="prose max-w-none"
-                    dangerouslySetInnerHTML={{ __html: event.description }}
-                  />
-                ) : (
-                  <p>No description available</p>
-                )}
+                <Card>
+                  <CardContent>
+                    {event?.description ? (
+                      <div
+                        className="prose max-w-none"
+                        dangerouslySetInnerHTML={{ __html: event.description }}
+                      />
+                    ) : (
+                      <p>No description available</p>
+                    )}
+                  </CardContent>
+                </Card>
+
                 <div className="flex flex-wrap gap-4 mt-6">
                   <Button
                     variant="outline"
