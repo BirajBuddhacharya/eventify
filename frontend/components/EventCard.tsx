@@ -24,12 +24,15 @@ export default function EventCard(item: Event) {
           <div className="absolute inset-0 rounded-2xl overflow-hidden">
             <ImageComponent imageFile={item.imageUrl} alt={item.title} className="object-cover w-full h-full" />
           </div>
-          <div className="relative h-48 w-full" />
+          {/* image placeholder */}
+          <div className="relative h-44 w-full" />
           <CardContent className="
-            h-full 
+            h-52
             flex 
             flex-col 
-            p-4 
+            justify-center
+            p-4
+            py-6 
             bg-black/30 
             backdrop-blur-md 
             rounded-2xl 
@@ -65,7 +68,7 @@ export default function EventCard(item: Event) {
               color="gray"
               variant="solid"
               highContrast
-              className="mt-2 w-full"
+              className="mt-3 w-full"
             >
               View Details
             </Button>
