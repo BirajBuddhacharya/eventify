@@ -1,4 +1,4 @@
-from api import db
+from .. import db
 
 class Test(db.Model): 
     __tablename__ = 'test'

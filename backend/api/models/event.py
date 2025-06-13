@@ -1,6 +1,6 @@
-from api import db 
+# from api import db 
 from datetime import datetime, timezone
-
+from .. import db
 
 class Event(db.Model):
     __tablename__ = 'events'

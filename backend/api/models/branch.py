@@ -1,4 +1,4 @@
-from api import db 
+from .. import db
 import datetime
 class Branch(db.Model):
     __tablename__ = 'branches'

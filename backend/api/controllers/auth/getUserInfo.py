@@ -1,8 +1,8 @@
 from flask import request, jsonify, make_response
 from firebase_admin import auth
-from api.utils.logger import Logger
-from api import db
-from api.models.user import User
+from backend.api.utils.logger import Logger
+from backend.api import db
+from backend.api.models.user import User
 
 def GetUserInfo():
     # Check if content type is application/json when request has body

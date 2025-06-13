@@ -1,6 +1,6 @@
 from flask import Blueprint, request, jsonify
-from api.models.test import Test
-from api import db
+from ..models.test import Test
+from .. import db
 from flask_mail import Message
 from api import mail
 test_bp = Blueprint('test', __name__)

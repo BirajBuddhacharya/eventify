@@ -3,9 +3,9 @@ import firebase_admin
 from firebase_admin import auth
 import requests
 import os
-from api.models.user import User
-from api import db
-from api.utils.logger import Logger
+from backend.api.models.user import User
+from backend.api import db
+from backend.api.utils.logger import Logger
 
 def is_authenticated():
     # extracting token

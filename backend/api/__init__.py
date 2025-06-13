@@ -2,7 +2,7 @@ from flask import Flask, send_from_directory, abort, send_file, request
 from flask_sqlalchemy import SQLAlchemy
 from flask_marshmallow import Marshmallow
 from flask_restful import Api
-from api.config import Config
+from .config import Config
 from flask_migrate import Migrate
 from flask_cors import CORS
 from flask_mail import Mail
@@ -97,15 +97,16 @@ def create_app():
     # app.register_blueprint(events_bp, url_prefix="/api/events")
     # app.register_blueprint(users_bp, url_prefix="/api/users")
     # app.register_blueprint(branches_bp, url_prefix="/api/branches")
-    from api.routes.test import test_bp
-    from api.routes.auth import auth_bp
-    from api.routes.user import user_bp
-    from api.routes.event import event_bp
-    from api.routes.branch import branch_bp
-    from api.routes.registration import registration_bp
-    from api.routes.contact import contact_bp
-    from api.routes.payment import payment_bp
-    from api.routes.newsLetter import news_letter_bp
+    from .routes.test import test_bp
+    from .routes.auth import auth_bp
+    from .routes.user import user_bp
+    from .routes.event import event_bp
+    from .routes.branch import branch_bp
+    from .routes.registration import registration_bp
+    from .routes.contact import contact_bp
+    from .routes.payment import payment_bp
+    from .routes.newsLetter import news_letter_bp
+
     
     app.register_blueprint(contact_bp, url_prefix="/api/contact/")
     app.register_blueprint(branch_bp, url_prefix="/api/branch/")

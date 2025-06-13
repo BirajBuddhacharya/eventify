@@ -1,0 +1,107 @@
+1. Event Listing Policy:
+   - Only verified organizers can list events.
+   - Events must include clear titles, descriptions, dates, and images.
+   - Offensive or misleading content will be removed immediately.
+
+2. Payment and Refund Policy:
+   - Paid events must clearly state ticket prices.
+   - Refunds are available only if the event is canceled or rescheduled.
+   - Refund requests must be made at least 48 hours before the event.
+
+3. Code of Conduct:
+   - Harassment or discrimination of any kind will not be tolerated.
+   - Users must respect venue rules and other attendees.
+   - Misuse of platform features can lead to suspension or ban.
+
+4. Privacy Policy:
+   - User data will be used only to improve event experiences.
+   - We do not sell or share personal data with third parties.
+   - Users can request account deletion and data removal anytime.
+
+5. Cancellation Policy:
+   - Organizers must inform users at least 24 hours in advance if an event is canceled.
+   - Platform is not liable for last-minute cancellations by organizers.
+
+6. Age Restrictions:
+   - Some events may have age restrictions. Users are responsible for checking before registering.
+
+7. Intellectual Property Policy:
+   - All event content must respect copyright laws.
+   - Organizers must have permission to use all images, videos, and music.
+
+8. Security Policy:
+   - We use encryption and secure servers to protect user data.
+   - Users must use strong passwords and not share login credentials.
+
+9. Ticket Transfer Policy:
+   - Tickets are non-transferable unless stated otherwise by the event organizer.
+
+10. Platform Usage Policy:
+   - Users must not use bots or automation to register for events.
+   - Abusive language or spam will lead to account suspension.
+
+1. How do I register for an event?
+   - Visit the event page and click the "Register" button. Follow the instructions to complete registration.
+
+2. Can I create and manage my own events?
+   - Yes, once you are verified as an organizer, you can create and manage your events from the dashboard.
+
+3. What happens if an event gets canceled?
+   - You will be notified by email, and if it is a paid event, a refund will be processed based on our refund policy.
+
+4. Are all events paid?
+   - No. Many events are free. If an event is paid, the price will be shown on the event page.
+
+5. How can I contact the event organizer?
+   - There is a "Contact Organizer" section on each event page for inquiries.You can also contact us directly.
+
+8. What payment methods are accepted for paid events?
+   - We accept Khalti Payments.
+
+9. How do I know if my registration was successful?
+   - You will receive a confirmation email after successful registration.
+
+10. Can I attend multiple events in one day?
+   - Yes, as long as the event times do not overlap and you are registered for each one.
+
+11. Is there a limit to how many events I can register for?
+   - No, you can register for as many events as you like, provided there is availability.
+
+13. How can I become a verified event organizer?
+   - The eventify management team have to give you approval for the clubs you want to add events under.
+
+14. Can I see past events I’ve registered for?
+   - Yes, it is available in your user dashboard.
+
+15. What should I do if I experience a technical issue?
+   - Contact our support team at eventify.services@gmail.com with a description of the issue and screenshots if possible.
+
+16. Will I receive reminders before the event?
+   - No, we don't have that feature yet.
+
+17. Can I cancel my event registration?
+   - Yes, you can cancel your registration from your dashboard before the event deadline.
+
+18. What happens if an event is full?
+   - You won't be able to register.
+
+19. How do I upload images or files for my event?
+   - Organizers can upload media during event creation or editing via the dashboard.
+
+20. Are virtual events supported?
+   - Yes, organizers can provide streaming links or meeting IDs for online events.
+
+21. How is event feedback collected?
+   - Feedback forms are automatically sent after the event ends. Organizers can view results on their dashboard.
+
+23. How do I know if an event is rescheduled?
+   - You will receive an email if any changes are made to the event schedule.
+
+24. Is there a dress code for events?
+   - Dress codes (if any) will be mentioned in the event description.
+
+25. How can I advertise or promote my event on the platform?
+   - Verified organizers can choose promotional options duringf the event setup or contact our support team for featured listings.
+
+
+

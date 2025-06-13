@@ -1,4 +1,4 @@
-from api import db 
+from .. import db
 from datetime import datetime
 
 class EventView(db.Model):
