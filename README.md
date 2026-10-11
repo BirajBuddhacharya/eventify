@@ -241,10 +241,6 @@ The backend provides a RESTful API with the following main endpoints:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-Built with ❤️ by the RoadTract Club development team.
-
 ## 🆘 Support
 
 For support and questions:
